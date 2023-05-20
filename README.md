@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm yarden hendri</h1>
 <h3 align="center">A Full Stack developer</h3>
 
-- 🔭 I’m currently working on [Exchange website in שמירת התרגום In the website building course](https://github.com/Yardenhe/group28)
+- 🔭 I’m currently working on [Exchange website in In the website building course](https://github.com/Yardenhe/group28)
 
 - 👯 Take a look **La-story project for Resturan in jerusalem (on production)**
 
