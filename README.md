@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Exchange website in In the website building course](https://github.com/Yardenhe/group28)
 
-- 👯 Take a look **La-story project for Resturan in jerusalem (on production)**
+- 👯 Take a look [La-story project for Resturan in jerusalem (on production)](https://github.com/Yardenhe/LaStoryIos)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yardenhe](https://github.com/Yardenhe)
 
