@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm yarden hendri</h1>
 <h3 align="center">A Full Stack developer</h3>
 
-- 🤝 [My business website](https://www.appetitechs.com/)
+- 🤝 
 
 - 🔭 I’m currently working on 
 
