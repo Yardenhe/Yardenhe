@@ -3,9 +3,9 @@
 
 - 🤝 [My business website](https://www.appetitechs.com/)
 
-- 🔭 I’m currently working on [Exchange website in In the website building course](https://github.com/Yardenhe/group28)
+- 🔭 I’m currently working on 
 
-- 👯 Take a look [La-story project for Resturan in jerusalem (on production)](https://github.com/Yardenhe/LaStoryIos)
+- 👯 Take a look 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yardenhe](https://github.com/Yardenhe)
 
