@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yardenhendri1@gmail.com**
 
-- ⚡Passionate about driving innovation and solving complex challenges in **React,React native**
+- ⚡Passionate about driving innovation and solving complex challenges in **React , React native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
