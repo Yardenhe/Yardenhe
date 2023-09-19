@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yardenhe](https://github.com/Yardenhe)
 
-- 📫 How to reach me **yardenhendri@gmail.com**
+- 📫 How to reach me **yardenhendri1@gmail.com**
 
 - ⚡Passionate about driving innovation and solving complex challenges in **React native**
 
