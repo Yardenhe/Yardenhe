@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm yarden hendri</h1>
 <h3 align="center">A Full Stack developer</h3>
 
-- 🤝 
+- 🤝 Full Stack Web Developer, passionate about solving challenges, with experience in writing single-page-applications using the latest WEB technologies such as Node.js, Vue.js, Vuex, React, Redux, and MongoDb.
+A Team player, and fast learner that is comfortable and experienced with self teaching.
 
 - 🔭 I’m currently working on 
 
