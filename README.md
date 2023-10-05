@@ -4,7 +4,7 @@
 - 🤝 Full Stack Web Developer, passionate about solving challenges, with experience in writing single-page-applications using the latest WEB technologies such as Node.js, Vue.js, Vuex, React, Redux, and MongoDb.
 A Team player, and fast learner that is comfortable and experienced with self teaching.
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on Gmail mockup (https://github.com/Yardenhe/misterEmail)
 
 - 👯 Take a look 
 
