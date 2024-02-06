@@ -6,11 +6,9 @@ A Team player, and fast learner that is comfortable and experienced with self te
 
 - 🔭 I’m currently working on airbnb mockup (https://github.com/Yardenhe/VisitBnb)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yardenhe](https://github.com/Yardenhe)
-
 - 📫 How to reach me **yardenhendri1@gmail.com**
 
-- ⚡Passionate about driving innovation and solving complex challenges in **React , React native**
+- ⚡Passionate about driving innovation and solving complex challenges in **React , React native ,Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
